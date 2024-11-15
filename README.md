@@ -1,7 +1,6 @@
 # Java Programming Tutorial OOP Exercises
 **FPT University**
 <br/>
-**hwww3.ntu.edu.sg**
 <h2> 1.  Exercises on Classes </h2>
 1.1  An Introduction to Classes and Instances by Example - The Circle Class
 <br/>
